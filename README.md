@@ -1,4 +1,6 @@
-<u>Nick Ritson - Full Stack Developer</u>
+### <u>Nick Ritson - Full Stack Developer</u>
+
+
 Solutions driven individual who works well under pressure both as an individual and in a team environment. I have experience working in a number of teams as well as managing teams and providing training. I enjoy problem solving and challenges, analysing tasks to make sure the most optimal outcome is achieved. 
 
 
