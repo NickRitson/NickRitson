@@ -11,7 +11,7 @@ I have worked in UX/UI, graphic design and video editing as well.
 I am proficient in JavaScript, ReactJS, NodeJS, Git, Typescript, SCSS, AI, Python, Browser Extensions, Bots, UX Design, Responsive Design, SASS, HTML5, SEO, MongoDB, AngularJS, WordPress, Shopify, AWS, Figma, Photoshop, After Effects, Agile Methodology.
 
 
-![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nicholasritson/)
 <hr />
 
 ```javascript
