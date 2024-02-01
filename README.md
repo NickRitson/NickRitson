@@ -21,4 +21,9 @@ const nick = () => {
   architecture: [Solid, Functional, Object-Oriented, DRY,  KISS, Agile],
   interests: [AI, Devops, Machine Learning, UX Design, Statistics, Code Challenges],
 }
+
+// Site is a playground and not all functionality may be implemented
+const url = 'https://boilerplate-nine-delta.vercel.app/';
 ```
+
+[playground site](https://boilerplate-nine-delta.vercel.app/)
